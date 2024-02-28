@@ -42,8 +42,6 @@ _**Nota.**_ Antes de revisar este reporte, se recomienda leer, en la subsección
 
 # Sobre el proyecto
 
-Acerca sobre el problema, objetivos, metodología, resultados y conclusiones, estos se encuentran en el archivo [./references/presentacion.pdf](./references/presentacion.pdf).
-
 # Anexos
 
 ## Terminología
