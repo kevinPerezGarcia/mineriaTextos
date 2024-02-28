@@ -6,3 +6,5 @@ tika
 stanza
 wordcloud
 spacy
+nltk
+sklearn
